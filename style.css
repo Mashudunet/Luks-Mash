@@ -1,0 +1,33 @@
+* {
+    background-color: pink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.Heading {
+    text-align: center;
+    border-radius: 0lvh;
+    border-style: dotted;
+    border-color: blue
+}
+.Image {
+    width: 250px;
+}
+.Text {
+    display: block;
+    text-decoration: overline;
+}
+
+.text {
+    display: block;
+    padding: 20px 5px;
+    color: black;
+    background-color: aliceblue;
+    margin: 25px;
+    cursor: copy;
+}
+.text :hover {
+  background-color: blue;
+  color: aliceblue;
+  transition: 0.3s;
+}
